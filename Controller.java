@@ -6,3 +6,5 @@ public class UserController{
 		logger.info("경로 : login");
 		return "user/login";
 	}
+
+	// delete
